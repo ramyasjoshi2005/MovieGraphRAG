@@ -1,0 +1,6 @@
+@"
+streamlit
+neo4j
+google-genai
+python-dotenv
+"@ | Set-Content requirements.txt
